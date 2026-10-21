@@ -1,0 +1,5 @@
+{
+  "name": "coztion-agent",
+  "owner": { "name": "coztion" },
+  "plugins": [{ "name": "todo-pane", "source": "./mods/todo-pane" }]
+}

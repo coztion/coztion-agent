@@ -1,0 +1,6 @@
+{
+  "name": "todo-pane",
+  "version": "0.1.0",
+  "description": "Keeps a to-do list (TDL) pinned in a pane beside the conversation",
+  "types": "./types/index.d.ts"
+}
