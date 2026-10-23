@@ -1,5 +1,9 @@
 {
   "name": "coztion-agent",
   "owner": { "name": "coztion" },
-  "plugins": [{ "name": "todo-pane", "source": "./mods/todo-pane" }]
+  "plugins": [
+    { "name": "todo-pane", "source": "./mods/todo-pane" },
+    { "name": "git-commit", "source": "./skills/git-commit" },
+    { "name": "write-pull-request", "source": "./skills/write-pull-request" }
+  ]
 }
