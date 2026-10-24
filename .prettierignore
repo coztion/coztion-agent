@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Lock files
+pnpm-lock.yaml
+
+# Git
+.git/
+
+# Engine generated types
+mods/*/.claude-plugin/types/
+
+# OS generated files
+.DS_Store
